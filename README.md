@@ -1,5 +1,5 @@
 ### Building-a-NeuralNet-from-Scratch
-*Author: Kevin M*<br>
+**Author: Kevin M**<br>
 This is a simple 2 layer Neural Network with 1 Hidden Layer.<br>
 This model has been trained on the MNIST dataset.<br>
 For the hidden layer the ReLU Activation function has been used.<br>
