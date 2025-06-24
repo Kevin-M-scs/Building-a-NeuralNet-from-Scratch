@@ -14,4 +14,4 @@ The mathematical details involved in this Neural Network are displayed in Math.j
 
 
 
-https://www.youtube.com/watch?v=pauPCy_s0Ok
+
