@@ -166,8 +166,8 @@ def ROC_plot(ltup,cl):
 num_train=40000 #number of images in training set
 num_test=5000 #number of images in test set
 
-df_train=pd.read_csv(r"C:\Users\Kevin T M\Documents\Old Laptop Contents\ML Journey\mnist_train.csv")
-df_test=pd.read_csv(r"C:\Users\Kevin T M\Documents\Old Laptop Contents\ML Journey\mnist_test.csv")
+df_train=pd.read_csv(r"path_to_csv_train_file")
+df_test=pd.read_csv(r"path_to_csv_test_file")
 a=df_train.iloc[0:num_train,1:].to_numpy() #(N X 784)
 a=a.astype(np.float64)
 #Normalization of whole input data
